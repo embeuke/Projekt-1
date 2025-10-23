@@ -1,8 +1,7 @@
-
- class emma {
+public class emma {
 
 	public static void main(String[] args) {
-		System.out.println("emma ist cool");
+		System.out.println("a");
 
 	}
 
